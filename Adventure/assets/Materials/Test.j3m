@@ -1,0 +1,7 @@
+Material My Material : Common/MatDefs/Misc/Unshaded.j3md {
+     MaterialParameters {
+        ColorMap : Flip Models/Bed/tx_fabric_de_purple_bed_double.jpg
+     }
+    AdditionalRenderState {
+    }
+}
